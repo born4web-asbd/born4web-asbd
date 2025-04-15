@@ -31,7 +31,7 @@
 ## 📦 Technologie
 
 - **Backend**: Python, Django
-- **Frontend**: Bootstrap, jQuery (v budoucnu HTMX)
+- **Frontend**: Bootstrap, jQuery, HTMX
 - **PDF export**: WeasyPrint
 - **Databáze**: PostgreSQL
 - **Deployment**: VPS + Docker
@@ -53,4 +53,3 @@ Tento repozitář obsahuje privátní zdrojový kód a není veřejně šířen.
 - Email: [info@asbd.cz](mailto:info@asbd.cz)
 - Telefon: +420 777 288 494
 - Sídlo: Budějovická 866/60, Praha 4
-
