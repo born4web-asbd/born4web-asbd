@@ -31,7 +31,7 @@
 ## 📦 Technologie
 
 - **Backend**: Python, Django
-- **Frontend**: Bootstrap, jQuery (v budoucnu HTMX)
+- **Frontend**: Bootstrap, jQuery, HTMX
 - **PDF export**: WeasyPrint
 - **Databáze**: PostgreSQL
 - **Deployment**: VPS + Docker
