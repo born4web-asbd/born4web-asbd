@@ -34,7 +34,7 @@
 - **Frontend**: Bootstrap, jQuery (v budoucnu HTMX)
 - **PDF export**: WeasyPrint
 - **Databáze**: PostgreSQL
-- **Deployment**: Docker, GitHub Actions
+- **Deployment**: VPS + Docker
 
 ---
 
