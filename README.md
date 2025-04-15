@@ -1,6 +1,6 @@
 # 🏢 ASBD – Aplikace pro správu bytových domů
 
-![ASBD ilustracni obrazek](absd-obrazek.png)
+![ASBD ilustracni obrazek](docs/absd-obrazek.png)
 
 **ASBD** je webová aplikace pro správce, účetní i předsedy SVJ, která umožňuje přehledné a jednoduché rozúčtování nákladů a evidenci v bytových domech.
 
